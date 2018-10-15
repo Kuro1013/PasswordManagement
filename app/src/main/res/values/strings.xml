@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PasswordManagement</string>
+    <string name="la_tv_mastertextviewmsg1">パスワードを作成します。</string>
+    <string name="la_tv_mastertextviewmsg2">パスワードを入力してください。</string>
+    <string name="la_bt_loginbutton">LOGIN</string>
+    <string name="la_to_passwordmiss">パスワードが違います。</string>
+    <string name="la_to_passwordinput">パスワードが未入力です。</string>
+    <string name="pl_title">一覧</string>
+    <string name="pl_lv_addnew">新規追加</string>
+    <string name="pl_bt_id">ID</string>
+    <string name="pl_bt_pw">PW</string>
+    <string name="pl_bt_delete">削除</string>
+    <string name="pl_to_id">IDをクリップボードへコピーしました。</string>
+    <string name="pl_to_pw">PWをクリップボードへコピーしました。</string>
+    <string name="da_title">詳細</string>
+    <string name="da_tv_name">TITLE</string>
+    <string name="da_tv_id">ID</string>
+    <string name="da_tv_pw">PW</string>
+    <string name="ps_title">新規追加</string>
+    <string name="ps_tv_name">TITLE</string>
+    <string name="ps_tv_id">ID</string>
+    <string name="ps_tv_pw">PW</string>
+    <string name="ps_bt_add">追加</string>
+    <string name="ps_bt_return">戻る</string>
+    <string name="ps_to_notname">TITLEが未入力です。</string>
+</resources>
